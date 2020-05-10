@@ -225,7 +225,6 @@ def subscriber():
 
     return render_template('subscribe.html',subscriber=subscriber,subscriber_form=subscriber_form,blog=blog)
 
-aaaaaaaaaaaaaaaaaaaa
 
 
 
