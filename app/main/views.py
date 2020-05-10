@@ -20,7 +20,7 @@ def index():
     title= "Billo's Blog"
     return render_template('index.html',title=title, blogs=blogs)
 
-@main.route('/user/<uname>')
+@main.route('/user/<uname>') zzzzzzzzzzzzzzzaaaaaaaaaaaaaddd
 def profile(uname):
     user = User.query.filter_by(author = uname).first()
 
