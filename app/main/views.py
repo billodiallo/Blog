@@ -8,7 +8,7 @@ from .. import db,photos
 from .forms import *
 import markdown2
 
-@main.route('/')
+@main.route('/')..................aaaaaaavvvv
 def index():
     '''
     my index page
