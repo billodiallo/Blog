@@ -20,7 +20,7 @@ def index():
     title= "Billo's Blog"
     return render_template('index.html',title=title, blogs=blogs)
 
-@main.route('/user/<uname>') zzzzzzzzzzzzzzzaaaaaaaaaaaaaddd
+@main.route('/user/<uname>') 
 def profile(uname):
     user = User.query.filter_by(author = uname).first()
 
@@ -72,7 +72,7 @@ def admin_dashboard():
 
     return render_template('admin_dashboard.html', title="Dashboard",blogposts=blogposts)
 
-@main.route('/blog/', methods = ['GET','POST'])
+@main.route('/blog/', methods = ['GET','POST']) ...................
 @login_required
 def new_blog():
 
