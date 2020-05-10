@@ -224,3 +224,12 @@ def subscriber():
 
 
     return render_template('subscribe.html',subscriber=subscriber,subscriber_form=subscriber_form,blog=blog)
+    
+aaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaa
+sssssssssssssssss
+xxxxxxxxxxxxxxxxxxxxx
+cccccccccccccccc
+vvvvvvvvvvvvvvvvvvv
+vvvvvvvvvvvvvvvvvvvs
+sssssssssssssss
