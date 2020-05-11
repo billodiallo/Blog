@@ -3,7 +3,7 @@
 ## Built By [Mamadou billo](https://github.com/billodiallo/)
 
 ## Description
-an application that allows users to use that one minute wisely. The users will submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them.
+a personal blogging website where you can create and share your opinions and other users can read and comment on them. Additionally, add a feature that displays random quotes to inspire your users. 
 
 
 ## User Stories
