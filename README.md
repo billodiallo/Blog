@@ -1,6 +1,6 @@
 # Blog
 
-## Built By [Tom Chege](https://github.com/emdeechege/)
+## Built By [Tom Chege](https://github.com/billodiallo/)
 
 ## Description
 an application that allows users to use that one minute wisely. The users will submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them.
@@ -46,11 +46,6 @@ Bloggers would like to:
 * virtualenv
 * Requirements.txt
 
-### Cloning
-* In your terminal:
-
-        $ git clone https://github.com/emdeechege/peech/
-        $ cd peech
 
 ## Running the Application
 * Creating the virtual environment
